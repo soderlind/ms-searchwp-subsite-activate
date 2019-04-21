@@ -1,6 +1,6 @@
 <?php
 /**
- * Activate SearchWP on Subsite
+ * Automatically Activate SearchWP on Subsite
  *
  * @author      Per Soderlind
  * @copyright   2019 Per Soderlind
