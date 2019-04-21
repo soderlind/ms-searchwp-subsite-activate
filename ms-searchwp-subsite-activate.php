@@ -10,7 +10,7 @@
  * Plugin Name: Activate SearchWP on Subsite
  * Plugin URI: https://github.com/soderlind/ms-searchwp-subsite-activate
  * GitHub Plugin URI: https://github.com/soderlind/ms-searchwp-subsite-activate
- * Description: When you create a subsite, automatically activate the SearchWP plugin and enable its license fot the subsite.
+ * Description: When you create a subsite, automatically activate the SearchWP plugin and enable its license on the subsite.
  * Version:     0.0.1
  * Network:     true
  * Author:      Per Soderlind
