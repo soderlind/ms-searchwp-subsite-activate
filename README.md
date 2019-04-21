@@ -14,6 +14,15 @@ When you create a subsite, automatically activate the SearchWP plugin and enable
 
 Install the plugin and network activate it.
 
+## Usage
+
+When you add a new subsite, this plugin will, on the subsite:
+
+- Activate the SearchWP plugin.
+- Activate the SearchWP license.
+- Tell SearchWP to work with the default generated config on install.
+- Run the SearchWP indexer on the default index.
+
 ## Copyright and License
 Automatically Activate SearchWP on Subsite is copyright 2019 Per Soderlind
 
