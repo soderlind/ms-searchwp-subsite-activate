@@ -1,3 +1,8 @@
+
+# EOL
+
+Instead, use https://github.com/soderlind/autoactivate-searchwp-index
+
 # Automatically Activate SearchWP on Subsite
 
 When you create a subsite, automatically activate the SearchWP plugin and enable its license on the subsite.
